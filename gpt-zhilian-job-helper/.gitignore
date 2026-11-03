@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+zhilian-state.json
+.zhilian.lock
+backups/
+data/
